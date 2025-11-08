@@ -1,0 +1,29 @@
+ 
+ form > h1{
+    text-align: center;
+ }
+ fieldset{
+    background-color: rgb(138, 107, 94);
+ }
+form label{
+    display: block;
+    margin: 20px;
+}
+fieldset >fieldset{
+   height: 150px;
+   width: 300px;
+   margin: 30px 20px;
+}
+h2{
+    margin-left:20px;
+}
+textarea{
+    width: 650px;
+    height: 100px;
+    margin:5px 20px;
+    font-size: 20px;
+    display:block;
+}
+#btn{
+    margin-left: 20px;
+}
